@@ -1,2 +1,1 @@
-# intro
-DevsKZ Intro
+Developers Collaboration Space
